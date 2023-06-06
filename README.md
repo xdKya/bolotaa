@@ -1,1 +1,2 @@
-# bolotaa
+# synchronousBallMovement
+Ball moving synchronously
